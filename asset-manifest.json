@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/conversor_moeda/static/css/main.70aa0d9a.chunk.css",
+    "main.js": "/conversor_moeda/static/js/main.d2b2a86b.chunk.js",
+    "main.js.map": "/conversor_moeda/static/js/main.d2b2a86b.chunk.js.map",
+    "runtime~main.js": "/conversor_moeda/static/js/runtime~main.979f6b63.js",
+    "runtime~main.js.map": "/conversor_moeda/static/js/runtime~main.979f6b63.js.map",
+    "static/js/2.44220397.chunk.js": "/conversor_moeda/static/js/2.44220397.chunk.js",
+    "static/js/2.44220397.chunk.js.map": "/conversor_moeda/static/js/2.44220397.chunk.js.map",
+    "index.html": "/conversor_moeda/index.html",
+    "precache-manifest.59c0a4a577e2aa34b81d0a8a01298ed4.js": "/conversor_moeda/precache-manifest.59c0a4a577e2aa34b81d0a8a01298ed4.js",
+    "service-worker.js": "/conversor_moeda/service-worker.js",
+    "static/css/main.70aa0d9a.chunk.css.map": "/conversor_moeda/static/css/main.70aa0d9a.chunk.css.map",
+    "static/media/logo.svg": "/conversor_moeda/static/media/logo.5d5d9eef.svg"
+  }
+}
